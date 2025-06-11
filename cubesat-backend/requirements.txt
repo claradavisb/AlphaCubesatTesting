@@ -24,7 +24,7 @@ packaging==23.1
 pycparser==2.21
 PyJWT==2.8.0
 python-dotenv==1.0.0
-requests==2.31.0
+requests==2.32.4
 six==1.16.0
 urllib3==1.26.16
 webargs==8.3.0
